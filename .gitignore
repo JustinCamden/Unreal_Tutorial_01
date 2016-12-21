@@ -38,6 +38,7 @@
 *.opensdf
 *.sdf
 *.VC.opendb
+*.VC.db
 
 # Precompiled Assets
 SourceArt/**/*.png
@@ -48,6 +49,9 @@ Binaries/*
 
 # Builds
 Build/*
+
+# Content
+Content/*
 
 # Don't ignore icon files in Build
 !Build/**/*.ico
